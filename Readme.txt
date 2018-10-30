@@ -32,3 +32,7 @@ Added a configuration file reader to allow for configuring the stepper motor con
 AutomatedHybrid UI but are not changable the in UI). See PossibleProblems.txt - pain in the ass with reading text files (so far)
 is that debugging generates a MyDebuggingLog folder during debugging and then removes it on termination so there's no way for the
 text file to be resident in the executable folder!!
+
+8/6/16
+
+Stopped work. This now a test vehicle for automation and not a deliverable machine/software match up.
